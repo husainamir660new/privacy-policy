@@ -1,4 +1,3 @@
-#Terms-&-Conditions
 **Terms & Conditions**  
 
 These terms and conditions apply to the FB Video Downloader app for mobile devices, together with any related services operated by Said Hussain (collectively, the "Application"). Said Hussain is hereby referred to as the "Service Provider".
