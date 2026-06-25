@@ -135,6 +135,12 @@ Previous versions of these Terms and Conditions will be maintained and made avai
 
 These terms and conditions are effective as of 2026-06-25
 
+DISCLAIMER & COPYRIGHT NOTICE:
+1. This application is an independent tool designed for downloading public videos and is NOT affiliated with, sponsored, or endorsed by Facebook, Meta, or any third-party platforms.
+2. All intellectual property rights, titles, and ownership of the videos, photos, and music downloaded through this app belong strictly to their respective owners or publishers. 
+3. You must obtain permission from the content owner before downloading, sharing, or re-uploading any copyrighted material. 
+4. The developer is NOT responsible for any intellectual property infringement or unauthorized use of content by the users. Use this application at your own risk.
+
 **Contact Us**
 
 If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at hussainihussain222@gmail.com.
